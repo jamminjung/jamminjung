@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=000000&height=250&text=KIM%20MINJUNG&fontAlign=50&fontColor=967BDC)
+![header](https://capsule-render.vercel.app/api?type=soft&color=000000&height=400&text=Welcome&desc=Minjung%20Kim's%20gitProfile&descAlign=60&descSize=25&&descAlignY=62&fontAlign=50&fontColor=967BDC)
 ## SKILLS
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=R&logoColor=white)
