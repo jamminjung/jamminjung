@@ -2,7 +2,8 @@
 ## 📝&nbsp;CV
 
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" style="height:27px;"/></a>
-
+## 📧&nbsp;Contact
+kwss1996@naver.com
 ## 🔧&nbsp;SKILLS
 <p>💡 Language</p>
 <div style="display:flex;">
