@@ -46,6 +46,8 @@ kwss1996@naver.com
 &nbsp;
 <p>💡 Deep Learning</p>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white" style="height:27px;"/>
+&nbsp;
+&nbsp;
 <p>💡 Used at least Once</p>
 <div>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white" style="height:27px;"/>
