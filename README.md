@@ -4,7 +4,7 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" style="height:27px;"/></a>
 ## 📧&nbsp;Contact
 kwss1996@naver.com
-## 🔧&nbsp;SKILLS
+## 🔧&nbsp;Skills
 <p>💡 Language</p>
 <div style="display:flex;">
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" style="height:27px;"/></a>
@@ -44,6 +44,8 @@ kwss1996@naver.com
 </div>
 &nbsp;
 &nbsp;
+<p>💡 Deep Learning</p>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white" style="height:27px;"/>
 <p>💡 Used at least Once</p>
 <div>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white" style="height:27px;"/>
